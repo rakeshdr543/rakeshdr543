@@ -1,6 +1,6 @@
-- 👋 Hello, I’m Rakesh working at @Rapid Innovation.
-- 👀 I’m interested in System Design, Data science, Blockchain, DevOps and Backend Development.
-- 🌱 I’m currently learning System Design, Data science
+- 👋 Hello, I’m Rakesh working at @UpGrad.
+- 👀 I’m interested in Generative AI, System Design, Data science, Blockchain, DevOps and Backend Development.
+- 🌱 I’m currently learning Generative AI, System Design, Data science
 - 📫 How to reach me 
 Linkdin - https://www.linkedin.com/in/rakeshdr543/
 
